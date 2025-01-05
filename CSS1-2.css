@@ -3,3 +3,104 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#stary {
+    margin-left: 55px;
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+    margin: 24px;
+}
+
+#starynight {
+    font-size: 40px;
+    text-align: center;
+    width: 568px;
+    margin-top: 32px
+}
+
+#nightysky {
+    font-size: 20px;
+    text-align: center;
+    width: 568px;
+    margin-top: 12px;
+}
+
+#immerse {
+    color: #155EEF;
+    width: 568px;
+    margin-top: 12px;
+    font-size: 16px;
+    margin-left: 8px;
+    text-align: left;
+}
+
+#button {
+    font-size: 24px;
+    width: 177px;
+    height: 56px;
+    color: #CEA201;
+    border: solid #CEA201;
+    text-align: center;
+    background-color: white;
+    margin-top: 32px;
+    margin-left: 55px;
+}
+
+#magicanimalsplants {
+    margin-left: 55px;
+}
+
+#magic {
+    font-size: 40px;
+    text-align: center;
+    width: 722px;
+    height: 48px;
+    margin-top: 86px;
+}
+
+#animals {
+    font-size: 20px;
+    width: 722px;
+    height: 72px;
+    text-align: center; 
+    color: #414651;
+    margin-top: 16px;
+}
+
+#workingprocess {
+    text-align: center;
+}
+
+#work {
+    width: 722px;
+    height: 24px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 24px;
+    color: #00C76E;
+}
+
+#molecule {
+    width: 461px;
+    height: 72px;
+    margin-top: 16px;
+    color: #FF5DA3; 
+    margin-left: 160px;
+    text-align: left;
+}
+
+#fireflies {
+    background-color: #FFDEF0; 
+    width: 690px;
+    height: 128px;
+    margin-top: 24px;
+    margin-left: 55px;
+    border-color: #C11574;
+}
+
+#where {
+    font-size: 24px;
+}
